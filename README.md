@@ -1,4 +1,4 @@
-#LeoCap
+# LeoCap
 
 Native Capture Utility for Mac OS X 10.5.8 Leopard / PowerPC
 
